@@ -12,6 +12,8 @@ El proyecto incluye:
 -  Un informe detallado en formato PDF que cubre la introducción, marco teórico, caso práctico, metodología, resultados, conclusiones y bibliografía.
 -  Un video explicativo.
 
+Enlace a Youtube: ...
+
 
 ✨ **Estudiantes**
 * Giardini, Silvia
