@@ -16,7 +16,8 @@ El proyecto incluye:
 
 
 ✨ **Estudiantes**
-* Giardini, Silvia
+
 * Cordero Marina
+* Giardini Silvia
   
 * Comisión: M2025-7
