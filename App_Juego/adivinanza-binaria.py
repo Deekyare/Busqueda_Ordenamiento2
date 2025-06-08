@@ -5,7 +5,7 @@ def visualizar_rango(limite_inferior, limite_superior, suposicion_actual, rango_
     # Marca el rango de búsqueda actual [limite_inferior, limite_superior] con "█".
     # Restamos 1 a los límites para ajustarlos a los índices de la lista (que van de 0 a 99).
     for i in range(limite_inferior - 1, limite_superior):
-        barra_visual[i] = "█"
+        barra_visual[i] = "_"
     
     # Marca la suposición actual con "A". También restamos 1 para el índice.
     barra_visual[suposicion_actual - 1] = "A"
