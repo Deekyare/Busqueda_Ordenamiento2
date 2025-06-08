@@ -96,7 +96,7 @@ def iniciar_juego_ordenamiento():
 def visualizar_rango(limite_inferior, limite_superior, suposicion_actual, rango_maximo=100):
     barra_visual = ["." for _ in range(rango_maximo)]  # Todos los puntos (1-100) representados como "."
     for i in range(limite_inferior - 1, limite_superior):
-        barra_visual[i] = "█"  # El rango actual de búsqueda se marca con "█"
+        barra_visual[i] = "-"  # El rango actual de búsqueda se marca con "█"
     barra_visual[suposicion_actual - 1] = "A"  # La suposición actual se marca con "A"
     print(f"Rango [{limite_inferior}, {limite_superior}]: " + "".join(barra_visual))
 
