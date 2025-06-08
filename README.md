@@ -1,5 +1,5 @@
 # TI-Programación I
-Repositorio para colaboracón de Trabajo Integrador Programación I.
+Repositorio para colaboración de Trabajo Integrador Programación I.
 
 📌**Descripción del Proyecto:**
 
