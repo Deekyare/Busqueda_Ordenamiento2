@@ -7,9 +7,10 @@ Este repositorio contiene el código y la documentación del Trabajo Integrador 
 El objetivo principal es explorar los conceptos de dicha temática, y mostrar un caso practico donde implementaremos y mostraremos lo aprendido de una forma más concreta.
 
 El proyecto incluye:
-Un programa en Python.
-Un informe detallado en formato PDF que cubre la introducción, marco teórico, caso práctico, metodología, resultados, conclusiones y bibliografía.
-Un video explicativo.
+
+-  Un programa en Python.
+-  Un informe detallado en formato PDF que cubre la introducción, marco teórico, caso práctico, metodología, resultados, conclusiones y bibliografía.
+-  Un video explicativo.
 
 
 ✨ **Estudiantes**
