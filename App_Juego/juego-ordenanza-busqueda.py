@@ -94,7 +94,7 @@ def iniciar_juego_ordenamiento():
 
 # Función que muestra visualmente el rango donde la computadora busca el tesoro
 def visualizar_rango(limite_inferior, limite_superior, suposicion_actual, rango_maximo=100):
-    barra_visual = ["." for _ in range(rango_maximo)]  # Todos los puntos (1-100) representados como "."
+    barra_visual = ["." for _ in range(rango_maximo)]  
     for i in range(limite_inferior - 1, limite_superior):
         barra_visual[i] = "-"  # El rango actual de búsqueda se marca con "-"
     barra_visual[suposicion_actual - 1] = "A"  # La suposición actual se marca con "A"
